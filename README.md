@@ -34,11 +34,9 @@ This module requires these other modules and libraries:
 
 If you want access SSL protected content you'll also need Crypt::SSLeay .
 
-COPYRIGHT AND LICENCE
+## COPYRIGHT AND LICENCE
 
-Put the correct copyright and licence information here.
-
-Copyright (C) 2010 by Alexander Kuehn
+Copyright (C) 2010-2013 by Alexander Kuehn
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.8 or,
