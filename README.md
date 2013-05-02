@@ -30,9 +30,10 @@ client auth, ca-bundle, etc..
 
 This module requires these other modules and libraries:
 
-  HTTP::Request, YAML
+   * HTTP::Request - http://search.cpan.org/~gaas/HTTP-Message/lib/HTTP/Request.pm
+   * YAML - http://search.cpan.org/~mstrout/YAML/lib/YAML.pm
 
-If you want access SSL protected content you'll also need Crypt::SSLeay .
+If you want access SSL protected content you'll also need Crypt::SSLeay - http://search.cpan.org/~nanis/Crypt-SSLeay/SSLeay.pm.
 
 ## COPYRIGHT AND LICENCE
 
