@@ -1,4 +1,4 @@
-Db_proxy version 1.04
+Db_proxy version 1.08
 =====================
 
 This module and the included cgi can be used to proxy access to a database
@@ -9,7 +9,7 @@ This archive includes a client libarary used to access the installed
 "server". It also includes the server which provides access to the database
 to the clients and a sample client.
 
-INSTALLATION
+## INSTALLATION
 
 To install this module type the following:
 
@@ -26,7 +26,7 @@ If you want to access an SSL protected server see Crypt::SSLeay(3pm)
 for relevant environment variables to configure things like 
 client auth, ca-bundle, etc..
 
-DEPENDENCIES
+## DEPENDENCIES
 
 This module requires these other modules and libraries:
 
